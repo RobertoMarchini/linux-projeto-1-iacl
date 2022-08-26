@@ -20,4 +20,5 @@ def elefantes(n):
 def main():
     n = int(input("digite:"))
     print(elefantes(n))
+    #Primeira alteração no script para entender o controle de versionamento - SCM.
 main()
